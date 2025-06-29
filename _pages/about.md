@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-About me
-======
+
 I am a postdoctoral fellow at the Max Planck Institute for Astrophysics. My research interests include:
 
 - Evolution of massive stars in isolated binary systems
