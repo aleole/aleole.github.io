@@ -1,8 +1,14 @@
 ---
-layout: page
-title: About Me
+layout: archive
+title: "About me"
 permalink: /about/
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
 
 I am a postdoctoral fellow at the Max Planck Institute for Astrophysics. My research interests include:
 
