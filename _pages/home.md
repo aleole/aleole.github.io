@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "home"
+title: "Home"
 permalink: /home/
 author_profile: true
 ---
@@ -8,4 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-Welcome to my personal webiste!
+Welcome to my personal website!
+
+
