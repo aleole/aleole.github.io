@@ -16,8 +16,8 @@ I actively engage in science communication and outreach through public talks, in
 ## Interviews and popular science publications about my research
 
 - **April 2025**, Featured in:
-  - [Phys.org](https://phys.org/news/2025-04-supermassive-black-holes-stars-helium.html)
-  - [Universe Today](https://www.universetoday.com/articles/supermassive-black-holes-could-strip-stars-down-to-their-helium-cores)  
+  [Phys.org](https://phys.org/news/2025-04-supermassive-black-holes-stars-helium.html) and
+  [Universe Today](https://www.universetoday.com/articles/supermassive-black-holes-could-strip-stars-down-to-their-helium-cores)  
   Summarizing the ApJL paper *"Supermassive black holes stripping a subgiant star down to its helium core..."*
 - **July 2022**, *Tygodnik Interia*  
   ["Our Galaxy is expected to host around 150 million black holes"](https://tygodnik.interia.pl/news-bada-czarne-dziury-w-naszej-galaktyce-moze-byc-ich-ok-150-mi,nId,6158562)
