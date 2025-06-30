@@ -28,7 +28,7 @@ author:
  # bio              : "Short biography for the left-hand sidebar"
  # location         : "Earth"
   employer         : "Max Planck Institute for Astrophysics"
-  uri              : # URL
+ # uri              : # URL
   email            : "aolejak@mpa-garching.mpg.de" 
 
   # Academic websites
@@ -38,8 +38,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6105-6492"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Aleksandra-Olejak"
   scopus           : # URL
 
 
