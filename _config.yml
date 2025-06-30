@@ -29,11 +29,11 @@ author:
  # location         : "Earth"
   employer         : "Max Planck Institute for Astrophysics"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aolejak@mpa-garching.mpg.de" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://ui.adsabs.harvard.edu/public-libraries/U0LMup96RQe2hPXDjU3Mcw"
+  ADS/NASA         : "https://ui.adsabs.harvard.edu/public-libraries/U0LMup96RQe2hPXDjU3Mcw"
   googlescholar    : "https://scholar.google.de/citations?user=I_ySynoAAAAJ&hl=pl&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6105-6492"
