@@ -12,10 +12,10 @@ I actively engage in science communication and outreach through public talks, in
 
 ## Interviews and popular science publications about my research
 
-- **April 2025**, Featured in:
+- **April 2025**, Articles by
   [Phys.org](https://phys.org/news/2025-04-supermassive-black-holes-stars-helium.html) and
   [Universe Today](https://www.universetoday.com/articles/supermassive-black-holes-could-strip-stars-down-to-their-helium-cores)  
-  Summarizing the ApJL paper *"Supermassive black holes stripping a subgiant star down to its helium core..."*
+  summarizing our paper *[Supermassive Black Holes Stripping a Subgiant Star Down to Its Helium Core: A New Type of Multimessenger Source for LISA](https://iopscience.iop.org/article/10.3847/2041-8213/ade432)*
 - **July 2022**, *Tygodnik Interia*  
   ["Our Galaxy is expected to host around 150 million black holes"](https://tygodnik.interia.pl/news-bada-czarne-dziury-w-naszej-galaktyce-moze-byc-ich-ok-150-mi,nId,6158562)
 - **June 2022**, *Polish Radio*  
@@ -24,7 +24,6 @@ I actively engage in science communication and outreach through public talks, in
   ["The odd couple: how a pair of mismatched black holes formed"](https://www.nature.com/articles/d41586-020-02792-6)
 - **Oct 2020**, *Science in Poland*  
   ["Scientists explain how two black holes of hugely different masses collided"](https://naukawpolsce.pap.pl/aktualnosci/news%2C84121%2Co-tym-jak-doszlo-do-spotkania-dwoch-odmiennych-czarnych-dziur.html)
-
 - **Oct 2022**, *ACADEMIA* (Magazine of the Polish Academy of Sciences): *"Space-time ripples"*
   
 
@@ -37,4 +36,6 @@ I actively engage in science communication and outreach through public talks, in
 - **Website of Niebieska Szkoła educational program** (for science sailing school activities):  
   - [Edition 14 (2016)](https://www.niebieskaszkola.pl/rejs,niebieska-szkola-14,81/)  
   - [Edition 24 (2020)](https://www.niebieskaszkola.pl/rejs,niebieska-szkola-24,145/)
+
+    
 ---
