@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-# Science Outreach
-
 I actively engage in science communication and outreach through public talks, interviews, and popular science publications. Selected highlights include:
 
 
