@@ -9,28 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+Below is a short summary of my academic background. A full PDF version of my CV can be downloaded here: [Download CV](files/CV_Aleksandra_Olejak_eng_update_18_06_25-4.pdf)
+
 Education
 ======
-* Ph.D in Warsaw, 2023
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Nicolaus Copernicus Astronomical Center, Polish Academy of Sciences (2019–2023, with distinction)  
+  Thesis defense: September 29, 2023 
+* M.S. University of Warsaw, Department of Physics (2017–2019)  
+* B.S. Warsaw University of Technology, Department of Physics (2013–2017)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+ **Postdoctoral Fellow**, Max Planck Institute for Astrophysics (2023–present)  
+  Stellar Department, director: Prof. Selma de Mink  
+- **Ph.D. Student**, Nicolaus Copernicus Astronomical Center (2019–2023)  
+  PI: Prof. Krzysztof Belczynski, supervisor: Prof. Tomasz Bulik  
+- **Scholarship Researcher**, Center for Theoretical Physics, PAS (2018–2019)  
+  Supervisor: Prof. Bożena Czerny  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## [Download CV (PDF)](/files/CV_Aleksandra_Olejak_eng_update_18_06_25-4.pdf)
   
 Skills
 ======
