@@ -9,14 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a short summary of my academic background. A full PDF version of my CV can be downloaded here: [Download CV](files/CV_Aleksandra_Olejak_webiste.pdf)
-
-Education
-======
-* Ph.D Nicolaus Copernicus Astronomical Center, Polish Academy of Sciences (2019–2023, with distinction)  
-  Thesis defense: September 29, 2023 
-* M.S. University of Warsaw, Department of Physics (2017–2019)  
-* B.S. Warsaw University of Technology, Department of Physics (2013–2017)
+A full PDF version of my CV can be downloaded here: ## [Download CV (PDF)](/files/CV_Aleksandra_Olejak_website.pdf)
 
 Work experience
 ======
@@ -25,9 +18,16 @@ Work experience
 - **Ph.D. Student**, Nicolaus Copernicus Astronomical Center (2019–2023)  
   PI: Prof. Krzysztof Belczynski, supervisor: Prof. Tomasz Bulik  
 - **Scholarship Researcher**, Center for Theoretical Physics, PAS (2018–2019)  
-  Supervisor: Prof. Bożena Czerny  
+  Supervisor: Prof. Bożena Czerny
 
-## [Download CV (PDF)](/files/CV_Aleksandra_Olejak_website.pdf)
+  Education
+======
+-**Ph.D Nicolaus Copernicus Astronomical Center**, Polish Academy of Sciences (2019–2023, with distinction)  
+  Thesis defense: September 29, 2023 
+-**M.S. University of Warsaw**, Department of Physics (2017–2019)  
+-**B.S. Warsaw University of Technology**, Department of Physics (2013–2017)
+
+
   
 
 
