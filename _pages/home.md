@@ -10,4 +10,4 @@ author_profile: true
 
 Welcome to my personal website!
 
-
+![plot](./images/SMBHkotek.png)
