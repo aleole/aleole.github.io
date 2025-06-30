@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a short summary of my academic background. A full PDF version of my CV can be downloaded here: [Download CV](files/CV_Aleksandra_Olejak_eng_update_18_06_25-4.pdf)
+Below is a short summary of my academic background. A full PDF version of my CV can be downloaded here: [Download CV](files/CV_Aleksandra_Olejak_webiste.pdf)
 
 Education
 ======
@@ -20,23 +20,16 @@ Education
 
 Work experience
 ======
- **Postdoctoral Fellow**, Max Planck Institute for Astrophysics (2023–present)  
+- **Postdoctoral Fellow**, Max Planck Institute for Astrophysics (2023–present)  
   Stellar Department, director: Prof. Selma de Mink  
 - **Ph.D. Student**, Nicolaus Copernicus Astronomical Center (2019–2023)  
   PI: Prof. Krzysztof Belczynski, supervisor: Prof. Tomasz Bulik  
 - **Scholarship Researcher**, Center for Theoretical Physics, PAS (2018–2019)  
   Supervisor: Prof. Bożena Czerny  
 
-## [Download CV (PDF)](/files/CV_Aleksandra_Olejak_eng_update_18_06_25-4.pdf)
+## [Download CV (PDF)](/files/CV_Aleksandra_Olejak_website.pdf)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -44,18 +37,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
