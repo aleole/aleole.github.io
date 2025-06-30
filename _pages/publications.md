@@ -12,14 +12,6 @@ author_profile: true
 {% include base_path %}
 
 ---
-layout: page
-title: Publications
-permalink: /publications/
----
-
-# Publications
-
----
 
 layout: page
 title: Publications
