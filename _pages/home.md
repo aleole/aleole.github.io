@@ -11,4 +11,4 @@ author_profile: true
 Welcome to my personal website!
 
 
-<img src="./../images/SMBHkotek.png" width="50"/>
+<img src="./../images/SMBHkotek_small.png" width="50"/>
