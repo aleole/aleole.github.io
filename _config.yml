@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Aleksandra Olejak"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+ # bio              : "Short biography for the left-hand sidebar"
+ # location         : "Earth"
   employer         : "Max Planck Institute for Astrophysics"
   uri              : # URL
   email            : "none@example.org" 
