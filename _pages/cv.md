@@ -22,10 +22,10 @@ Work experience
 
   Education
 ======
--**Ph.D Nicolaus Copernicus Astronomical Center**, Polish Academy of Sciences (2019–2023, with distinction)  
+- **Ph.D Nicolaus Copernicus Astronomical Center**, Polish Academy of Sciences (2019–2023, with distinction)  
   Thesis defense: September 29, 2023 
--**M.S. University of Warsaw**, Department of Physics (2017–2019)  
--**B.S. Warsaw University of Technology**, Department of Physics (2013–2017)
+- **M.S. University of Warsaw**, Department of Physics (2017–2019)  
+- **B.S. Warsaw University of Technology**, Department of Physics (2013–2017)
 
 
   
