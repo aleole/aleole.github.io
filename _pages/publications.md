@@ -5,20 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
-
----
-
-layout: page
-title: Publications
-permalink: /publications/
--------------------------
-
-# Publications
 
 I am a co-author of 24 peer-reviewed scientific articles and the leading author of 7 of them.
 Total citations: **1179**. Citations for first-authored articles: **341**. H-index: **15**
