@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://ui.adsabs.harvard.edu/public-libraries/U0LMup96RQe2hPXDjU3Mcw"
   googlescholar    : "https://scholar.google.de/citations?user=I_ySynoAAAAJ&hl=pl&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6105-6492"
