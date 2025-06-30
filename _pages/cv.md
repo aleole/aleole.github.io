@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF version of my CV can be downloaded here:  ## **[Download CV (PDF)](/files/CV_Aleksandra_Olejak_website.pdf)**
+A full PDF version of my CV can be downloaded here: **[Download CV (PDF)](/files/CV_Aleksandra_Olejak_website.pdf)**
 
 Work experience
 ======
