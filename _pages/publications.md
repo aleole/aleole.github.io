@@ -18,51 +18,51 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 ## ✍️ First- and Second-authored Papers
 
-1. **Olejak A., Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.** (2025)
+1. **Olejak A.**, Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.(2025)
    *Supermassive black holes stripping a subgiant star down to its helium core: a new type of multi-messenger source for LISA*
    [ApJL](https://doi.org/10.3847/2041-8213/ade43), [arXiv:2503.21995](https://arxiv.org/abs/2503.21995)
 
-2. **Olejak A., Klencki J., Xu X.-T., Wang C., Belczynski K., Lasota J.-P.** (2024)
+2. **Olejak A.**, Klencki J., Xu X.-T., Wang C., Belczynski K., Lasota J.-P. (2024)
    *Unequal-mass highly spinning binary black hole mergers in the stable mass transfer formation channel*
    [A\&A 689, A305](https://doi.org/10.1051/0004-6361/202450480)
 
-3. **Olejak A., Fryer C. L., Belczynski K., Baibhav V.** (2022)
+3. **Olejak A.**, Fryer C. L., Belczynski K., Baibhav V. (2022)
    *The role of supernova convection for the lower mass gap in the isolated binary formation of gravitational wave sources*
    [MNRAS 516, 2252](https://doi.org/10.1093/mnras/stac2359)
 
-4. **Olejak A., Belczynski K.** (2021)
+4. **Olejak A.**, Belczynski K. (2021)
    *The Implications of High Black Hole Spins for the Origin of Binary Black Hole Mergers*
    [ApJL 921, L2](https://doi.org/10.3847/2041-8213/ac2f48)
 
-5. **Olejak A., Belczynski K., Ivanova N.** (2021)
+5. **Olejak A.**, Belczynski K., Ivanova N. (2021)
    *Impact of common envelope development criteria on the formation of LIGO/Virgo sources*
    [A\&A 651, A100](https://doi.org/10.1051/0004-6361/202140520)
 
-6. **Olejak A., Fishbach M., Belczynski K., Holz D. E., Lasota J.-P., Miller M. C., Bulik T.** (2020)
+6. **Olejak A.**, Fishbach M., Belczynski K., Holz D. E., Lasota J.-P., Miller M. C., Bulik T. (2020)
    *The Origin of Inequality: Isolated Formation of a 30+10 Msun Binary Black Hole Merger*
    [ApJL 901, L39](https://doi.org/10.3847/2041-8213/abb5b5)
 
-7. **Olejak A., Belczynski K., Bulik T., Sobolewska M.** (2020)
+7. **Olejak A.**, Belczynski K., Bulik T., Sobolewska M. (2020)
    *Synthetic catalog of black holes in the Milky Way*
    [A\&A 638, A94](https://doi.org/10.1051/0004-6361/201936557)
 
-8. **Sen K., Olejak A., Banerjee S.** (2025)
+8. Sen K., **Olejak A.**, Banerjee S. (2025)
    *X-ray emission from helium star–black hole binaries as probes of tidally induced spin-up of second-born black holes*
    [A\&A 696, A54](https://www.aanda.org/articles/aa/full_html/2025/04/aa53829-25/aa53829-25.html)
 
-9. **Banerjee S., Olejak A., Belczynski K.** (2023)
+9. Banerjee S., **Olejak A.**, Belczynski K. (2023)
    *Symmetry Breaking in Merging Binary Black Holes from Young Massive Clusters and Isolated Binaries*
    [ApJ 953, 80](https://doi.org/10.3847/1538-4357/acdd59)
 
-10. **Romagnolo A., Olejak A., Hypki A., Wiktorowicz G., Belczynski K.** (2022)
+10. Romagnolo A., **Olejak A.**, Hypki A., Wiktorowicz G., Belczynski K. (2022)
     *Testing the presence of a dormant black hole inside HR 6819*
     [A\&A 667, A55](https://doi.org/10.1051/0004-6361/202141992)
 
-11. **Fryer C. L., Olejak A., Belczynski K.** (2022)
+11. Fryer C. L., **Olejak A.**, Belczynski K. (2022)
     *The Effect of Supernova Convection On Neutron Star and Black Hole Masses*
     [ApJ 931, 94](https://doi.org/10.3847/1538-4357/ac6ac9)
 
-12. **Czerny B., Olejak A., et al.** (2019)
+12. Czerny B., **Olejak A.**, et al.** (2019)
     *Time Delay Measurement of Mg II Line in CTS C30.10 with SALT*
     [ApJ 880, 46](https://doi.org/10.3847/1538-4357/ab2913)
 
