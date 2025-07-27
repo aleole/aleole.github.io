@@ -16,7 +16,7 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 ---
 
-## ✍️ First- and Second-authored Papers
+## First- and Second-authored Papers
 
 1. **Olejak A.**, Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.(2025)
    *Supermassive black holes stripping a subgiant star down to its helium core: a new type of multi-messenger source for LISA*
@@ -68,7 +68,7 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 ---
 
-## 🤝 Other Co-authored Publications
+## Other Co-authored Publications
 
 1. [Vigna-Gomez et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250317006V/abstract) — A\&A, accepted
 2. [Wang et al. 2024](https://doi.org/10.3847/2041-8213/ad86b7) — ApJL 975, L20
