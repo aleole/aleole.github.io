@@ -11,10 +11,10 @@ author_profile: true
 ## Selected Talks & Seminars
 
 ### 2025
-- **Invited talk**(upcoming): *Crossroads in Strong Gravity Challenges & Future Directions*  
+- **Invited talk** (upcoming): *Crossroads in Strong Gravity Challenges & Future Directions*  
   Catania, Italy (Sep 2025)
 
-- **Invited talk**(upcoming): *5th Philip Wetton Workshop*  
+- **Invited talk** (upcoming): *5th Philip Wetton Workshop*  
   Oxford, UK (Sep 2025)
 
 - **Seminar**: *The origin of gravitational wave sources. Isolated binary progenitors of binary black hole mergers*  
