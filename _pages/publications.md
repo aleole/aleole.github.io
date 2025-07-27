@@ -20,7 +20,7 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 1. **Olejak A.**, Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.(2025)
    *Supermassive black holes stripping a subgiant star down to its helium core: a new type of multi-messenger source for LISA*
-   [ApJL](https://doi.org/10.3847/2041-8213/ade43), [arXiv:2503.21995](https://arxiv.org/abs/2503.21995)
+   [ApJL](https://iopscience.iop.org/article/10.3847/2041-8213/ade432)
 
 2. **Olejak A.**, Klencki J., Xu X.-T., Wang C., Belczynski K., Lasota J.-P. (2024)
    *Unequal-mass highly spinning binary black hole mergers in the stable mass transfer formation channel*
@@ -70,24 +70,24 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 ## Other Co-authored Publications
 
-1. [Vigna-Gomez et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250317006V/abstract) — A\&A, accepted
+1. [Vigna-Gomez et al. 2025](https://doi.org/10.1051/0004-6361/202554680) — A&A 699, A272
 2. [Wang et al. 2024](https://doi.org/10.3847/2041-8213/ad86b7) — ApJL 975, L20
 3. [Fumagalli et al. 2024](https://doi.org/10.1103/PhysRevD.110.063012) — Phys. Rev. D 110, 063012
-4. [Prince et al. 2023](https://doi.org/10.1051/0004-6361/202346738) — A\&A 678, A189
+4. [Prince et al. 2023](https://doi.org/10.1051/0004-6361/202346738) — A&A 678, A189
 5. [Leveque et al. 2023](https://doi.org/10.1093/mnras/stad240) — MNRAS 520, 2593
-6. [Prince et al. 2022](https://doi.org/10.1051/0004-6361/202243194) — A\&A 667, A42
-7. [Wang et al. 2022](https://doi.org/10.1051/0004-6361/202243684) — A\&A 665, A111
+6. [Prince et al. 2022](https://doi.org/10.1051/0004-6361/202243194) — A&A 667, A42
+7. [Wang et al. 2022](https://doi.org/10.1051/0004-6361/202243684) — A&A 665, A111
 8. [Belczynski et al. 2022](https://doi.org/10.3847/1538-4357/ac8167) — ApJ 935, 126
 9. [Belczynski et al. 2022](https://doi.org/10.3847/1538-4357/ac375a) — ApJ 925, 69
 10. [Zajacek et al. 2021](https://doi.org/10.3847/1538-4357/abe9b2) — ApJ 912, 10
 11. [Zajacek et al. 2020](https://doi.org/10.3847/1538-4357/ab94ae) — ApJ 896, 146
-12. [Belczynski et al. 2020](https://doi.org/10.1051/0004-6361/201936528) — A\&A 636, A104
+12. [Belczynski et al. 2020](https://doi.org/10.1051/0004-6361/201936528) — A&A 636, A104
 
 ---
 
 ## Submitted and preprints
-
-1. [Zdziarski et al. 2025](https://arxiv.org/abs/2506.00623) — *New Astronomy Review* (submitted)
-2. [Klencki et al. 2025](https://arxiv.org/abs/2505.08860) — A\&A (submitted)
-3. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112) — A\&A (submitted)
-4. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065) — *arXiv*
+1. [Stegmann, Olejak & de Mink 2025](https://arxiv.org/abs/2507.15967)
+2. [Zdziarski et al. 2025](https://arxiv.org/abs/2506.00623) submitted to *New Astronomy Review*
+3. [Klencki et al. 2025](https://arxiv.org/abs/2505.08860)
+4. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
+5. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
