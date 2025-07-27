@@ -12,7 +12,7 @@ I actively engage in science communication and outreach through public talks, in
 
 ## Interviews and popular science publications about my research
 - **July 2025**, *Science in Poland*  
-  ["When a supermassive black hole rips a star off the shell"]([https://naukawpolsce.pap.pl/aktualnosci/news%2C84121%2Co-tym-jak-doszlo-do-spotkania-dwoch-odmiennych-czarnych-dziur.html](https://naukawpolsce.pl/aktualnosci/news%2C108782%2Cfalujacy-podolbrzym-kiedy-supermasywna-czarna-dziura-oddziera-gwiazde-z))
+  ["When a supermassive black hole rips a star off the shell"](https://naukawpolsce.pl/aktualnosci/news%2C108782%2Cfalujacy-podolbrzym-kiedy-supermasywna-czarna-dziura-oddziera-gwiazde-z))
 - **April 2025**, Articles by
   [Phys.org](https://phys.org/news/2025-04-supermassive-black-holes-stars-helium.html) and
   [Universe Today](https://www.universetoday.com/articles/supermassive-black-holes-could-strip-stars-down-to-their-helium-cores)  
