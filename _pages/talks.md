@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## 🗣️ Selected Talks & Seminars
+## Selected Talks & Seminars
 
 ### 2025
 - **Invited talk (upcoming)**: *Crossroads in Strong Gravity Challenges & Future Directions*  
