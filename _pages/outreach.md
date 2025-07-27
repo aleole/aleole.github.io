@@ -38,5 +38,7 @@ I actively engage in science communication and outreach through public talks, in
   - [Edition 14 (2016)](https://www.niebieskaszkola.pl/rejs,niebieska-szkola-14,81/)  
   - [Edition 24 (2020)](https://www.niebieskaszkola.pl/rejs,niebieska-szkola-24,145/)
 
-    
+ <div style="text-align: center;">
+  <img src="./../images/SMBHkotek.png" width="400"/>
+</div>
 ---
