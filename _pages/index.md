@@ -17,3 +17,8 @@ I am a postdoctoral fellow at the Max Planck Institute for Astrophysics. My rese
 - Origin of gravitational wave signals 
 - Stars in the galactic centers as multimessenger sources
 
+
+
+ <div style="text-align: center;">
+  <img src="./../images/Max-Planck-Gesellschaft.png" width="400"/>
+ </div>
