@@ -22,6 +22,6 @@ See the list of my publications at
 **ORCID**: [0000-0002-6105-6492](https://orcid.org/0000-0002-6105-6492)
 
  <div style="text-align: center;">
-  <img src="./../images/SMBH_hills.png" width="400"/>
+  <img src="./../images/SMBH_hills.png" width="600"/>
 </div>
 Cartoon illustrating key stages: a binary disrupted by the supermassive black hole leaves one star bound and one ejected. The captured star’s orbit circularizes, undergoes stable mass transfer as a sub-giant, then its stripped core inspirals further, becoming a bright LISA-band gravitational wave source. Adopted from Olejak et al. 2025. 
