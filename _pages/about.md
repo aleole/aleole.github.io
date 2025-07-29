@@ -17,7 +17,8 @@ My academic path has been closely aligned with the scientific objectives of the 
 - Origin of gravitational wave signals 
 - Stars in the galactic centers as multimessenger sources
 
-See the list of my publications at
+See the list of my publications at:
+
 **ADS Library**: [ADS Public Library](https://ui.adsabs.harvard.edu/public-libraries/U0LMup96RQe2hPXDjU3Mcw) or
 **ORCID**: [0000-0002-6105-6492](https://orcid.org/0000-0002-6105-6492)
 
