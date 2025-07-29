@@ -17,3 +17,6 @@ My academic path has been closely aligned with the scientific objectives of the 
 - Origin of gravitational wave signals 
 - Stars in the galactic centers as multimessenger sources
 
+ <div style="text-align: center;">
+  <img src="./../images/SMBHkotek.png" width="400"/>
+</div>
