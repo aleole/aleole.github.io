@@ -10,12 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
-My academic path has been closely aligned with the scientific objectives of the LISA and LIGO-Virgo-KAGRA collaborations.
+My academic path has been closely aligned with the scientific objectives of the LISA and LIGO-Virgo-KAGRA collaborations. My research interests include:
 
 - Evolution of massive stars in isolated binary systems
 - Evolutionary scenarios leading to the formation of binaries hosting compact objects
 - Origin of gravitational wave signals 
 - Stars in the galactic centers as multimessenger sources
+
+See list of my publications:
+**ADS Library**: [ADS Public Library](https://ui.adsabs.harvard.edu/public-libraries/U0LMup96RQe2hPXDjU3Mcw)
+**ORCID**: [0000-0002-6105-6492](https://orcid.org/0000-0002-6105-6492)
 
  <div style="text-align: center;">
   <img src="./../images/SMBH_hills.png" width="400"/>
