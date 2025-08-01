@@ -11,6 +11,8 @@ I actively engage in science communication and outreach through public talks, in
 
 
 ## Interviews and popular science publications about my research
+- **August 2025**, *Monthly Highlights of MPI for Astrophysics*  
+  ["Gravitational Waves from Stars Stripped by Supermassive Black Holes?"](https://www.mpa-garching.mpg.de/1125545/hl202508)
 - **July 2025**, *Science in Poland*  
   ["When a supermassive black hole rips a star off the shell"](https://naukawpolsce.pl/aktualnosci/news%2C108782%2Cfalujacy-podolbrzym-kiedy-supermasywna-czarna-dziura-oddziera-gwiazde-z))
 - **April 2025**, Articles by
