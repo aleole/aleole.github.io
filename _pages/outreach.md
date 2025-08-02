@@ -14,7 +14,7 @@ I actively engage in science communication and outreach through public talks, in
 - **August 2025**, *Monthly Highlights of MPI for Astrophysics*  
   ["Gravitational Waves from Stars Stripped by Supermassive Black Holes?"](https://www.mpa-garching.mpg.de/1125545/hl202508)
 - **July 2025**, *Science in Poland*  
-  ["When a supermassive black hole rips a star off the shell"](https://naukawpolsce.pl/aktualnosci/news%2C108782%2Cfalujacy-podolbrzym-kiedy-supermasywna-czarna-dziura-oddziera-gwiazde-z))
+  ["When a supermassive black hole rips a star off the shell"](https://naukawpolsce.pl/aktualnosci/news%2C108782%2Cfalujacy-podolbrzym-kiedy-supermasywna-czarna-dziura-oddziera-gwiazde-z)
 - **April 2025**, *Phys.org & Universe Today*  
   [Phys.org](https://phys.org/news/2025-04-supermassive-black-holes-stars-helium.html) and
   Articles by [Universe Today](https://www.universetoday.com/articles/supermassive-black-holes-could-strip-stars-down-to-their-helium-cores) summarizing the paper *[Olejak et al 2025 ApJL 987 L11](https://iopscience.iop.org/article/10.3847/2041-8213/ade432)*
