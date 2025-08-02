@@ -24,7 +24,7 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 2. **Olejak A.**, Klencki J., Xu X.-T., Wang C., Belczynski K., Lasota J.-P. (2024)
    *Unequal-mass highly spinning binary black hole mergers in the stable mass transfer formation channel*
-   [A\&A 689, A305](https://doi.org/10.1051/0004-6361/202450480)
+   [A&A 689, A305](https://doi.org/10.1051/0004-6361/202450480)
 
 3. **Olejak A.**, Fryer C. L., Belczynski K., Baibhav V. (2022)
    *The role of supernova convection for the lower mass gap in the isolated binary formation of gravitational wave sources*
@@ -36,7 +36,7 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 5. **Olejak A.**, Belczynski K., Ivanova N. (2021)
    *Impact of common envelope development criteria on the formation of LIGO/Virgo sources*
-   [A\&A 651, A100](https://doi.org/10.1051/0004-6361/202140520)
+   [A&A 651, A100](https://doi.org/10.1051/0004-6361/202140520)
 
 6. **Olejak A.**, Fishbach M., Belczynski K., Holz D. E., Lasota J.-P., Miller M. C., Bulik T. (2020)
    *The Origin of Inequality: Isolated Formation of a 30+10 Msun Binary Black Hole Merger*
@@ -44,11 +44,11 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 7. **Olejak A.**, Belczynski K., Bulik T., Sobolewska M. (2020)
    *Synthetic catalog of black holes in the Milky Way*
-   [A\&A 638, A94](https://doi.org/10.1051/0004-6361/201936557)
+   [A&A 638, A94](https://doi.org/10.1051/0004-6361/201936557)
 
 8. Sen K., **Olejak A.**, Banerjee S. (2025)
    *X-ray emission from helium star–black hole binaries as probes of tidally induced spin-up of second-born black holes*
-   [A\&A 696, A54](https://www.aanda.org/articles/aa/full_html/2025/04/aa53829-25/aa53829-25.html)
+   [A&A 696, A54](https://www.aanda.org/articles/aa/full_html/2025/04/aa53829-25/aa53829-25.html)
 
 9. Banerjee S., **Olejak A.**, Belczynski K. (2023)
    *Symmetry Breaking in Merging Binary Black Holes from Young Massive Clusters and Isolated Binaries*
@@ -56,7 +56,7 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 10. Romagnolo A., **Olejak A.**, Hypki A., Wiktorowicz G., Belczynski K. (2022)
     *Testing the presence of a dormant black hole inside HR 6819*
-    [A\&A 667, A55](https://doi.org/10.1051/0004-6361/202141992)
+    [A&A 667, A55](https://doi.org/10.1051/0004-6361/202141992)
 
 11. Fryer C. L., **Olejak A.**, Belczynski K. (2022)
     *The Effect of Supernova Convection On Neutron Star and Black Hole Masses*
