@@ -11,6 +11,8 @@ I actively engage in science communication and outreach through public talks, in
 
 
 ## Interviews and popular science publications about my research
+- **August 2025**, *AAS Nova highlights for AAS's peer-reviewed journals*  
+  ["Supermassive Black Holes and Stripped Subgiants: Significant Signals for Future Gravitational Wave Detectors"](https://aasnova.org/2025/08/08/supermassive-black-holes-and-stripped-subgiants-significant-signals-for-future-gravitational-wave-detectors/)
 - **August 2025**, *Monthly Highlights of MPI for Astrophysics*  
   ["Gravitational Waves from Stars Stripped by Supermassive Black Holes?"](https://www.mpa-garching.mpg.de/1125545/hl202508)
 - **July 2025**, *Science in Poland*  
