@@ -12,7 +12,7 @@ I actively engage in science communication and outreach through public talks, in
  <div style="text-align: center;">
   <img src="./../images/SMBHstar-scaled.jpg" width="400"/>
 </div>
-Artist's impression of a supermassive black hole tearing apart a Sun-like star [© ESO, ESA/Hubble, M. Kornmesser; CC BY 4.0]. Used in an [article by AAS Nova](https://aasnova.org/2025/08/08/supermassive-black-holes-and-stripped-subgiants-significant-signals-for-future-gravitational-wave-detectors/) .
+Artist's impression of a supermassive black hole tearing apart a Sun-like star [© ESO, ESA/Hubble, M. Kornmesser; CC BY 4.0]. Used in an ["article by AAS Nova"](https://aasnova.org/2025/08/08/supermassive-black-holes-and-stripped-subgiants-significant-signals-for-future-gravitational-wave-detectors/).
 
 
 
