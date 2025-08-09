@@ -7,10 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-I actively engage in science communication and outreach through public talks, interviews, and popular science publications. Selected highlights include:
+I actively engage in science communication and outreach through public talks, interviews, and popular science publications. 
+
+ <div style="text-align: center;">
+  <img src="./../images/SMBHstar-scaled.jpg" width="400"/>
+  Artist's impression of a supermassive black hole tearing apart a Sun-like star. [ESO, ESA/Hubble, M. Kornmesser; CC BY 4.0]. Used for an ["article"](https://aasnova.org/2025/08/08/supermassive-black-holes-and-stripped-subgiants-significant-signals-for-future-gravitational-wave-detectors/) by AAS Nova.
+</div>
 
 
-## Interviews and popular science publications about my research
+## Interviews and popular science highlights of my research
 - **August 2025**, *AAS Nova highlights for AAS's peer-reviewed journals*  
   ["Supermassive Black Holes and Stripped Subgiants: Significant Signals for Future Gravitational Wave Detectors"](https://aasnova.org/2025/08/08/supermassive-black-holes-and-stripped-subgiants-significant-signals-for-future-gravitational-wave-detectors/)
 - **August 2025**, *Monthly Highlights of MPI for Astrophysics*  
