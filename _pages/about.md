@@ -11,7 +11,7 @@ redirect_from:
 
 
 My academic path has been closely aligned with the scientific objectives of the LISA and LIGO-Virgo-KAGRA collaborations. My research interests include:
-My expertise lies in stellar evolution, compact-object astrophysics, and gravitational-wave astronomy, with a particular focus on binary interactions that lead to the formation of GW sources. My research spans the full evolutionary pathway from stellar birth to compact-object mergers, combining detailed stellar and binary evolution codes (MESA, StarTrack) with population synthesis to connect theoretical predictions with GW detections (LIGO–Virgo–KAGRA, LISA) and electromagnetic observations (e.g., Gaia black holes, X-ray binaries). During my postdoctoral fellowship at MPA, I started exploring systems where stars transfer mass onto supermassive black holes.
+My expertise lies in stellar evolution, compact-object astrophysics, and gravitational-wave astronomy, with a particular focus on binary interactions that lead to the formation of GW sources. My research spans the full evolutionary pathway from stellar birth to compact-object mergers, combining detailed stellar and binary evolution codes (MESA, StarTrack) with population synthesis to connect theoretical predictions with GW detections (LIGO–Virgo–KAGRA, LISA) and electromagnetic observations (e.g., Gaia black holes, X-ray binaries). During my postdoctoral fellowship at MPA, I began investigating systems where stars transfer mass onto supermassive black holes.
 
 See the list of my publications at:
 
