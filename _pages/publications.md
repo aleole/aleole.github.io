@@ -20,7 +20,7 @@ Total citations: **1179**. Citations for first-authored articles: **341**. H-ind
 
 1. **Olejak A.**, Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.(2025)
    *Supermassive black holes stripping a subgiant star down to its helium core: a new type of multi-messenger source for LISA*
-   [ApJL](https://iopscience.iop.org/article/10.3847/2041-8213/ade432)
+   [ApJL 987, L11](https://iopscience.iop.org/article/10.3847/2041-8213/ade432)
 
 2. **Olejak A.**, Klencki J., Xu X.-T., Wang C., Belczynski K., Lasota J.-P. (2024)
    *Unequal-mass highly spinning binary black hole mergers in the stable mass transfer formation channel*
