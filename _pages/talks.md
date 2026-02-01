@@ -11,11 +11,14 @@ author_profile: true
 ## Selected Talks & Seminars
 
 ### 2025
-- **Invited talk** (upcoming): *Crossroads in Strong Gravity Challenges & Future Directions*  
-  Catania, Italy (Sep 2025)
-
-- **Invited talk** (upcoming): *5th Philip Wetton Workshop*  
-  Oxford, UK (Sep 2025)
+- **Invited talk**: *Gravitational Waves from Stars Stripped by Supermassive Black Holes*
+  ORIGINS Black Hole Days, Garching bei München (Oct 2025)
+  
+- **Invited talk**: *Formation Pathways of GW Sources: Isolated Binary Evolution vs. Dynamical Channels*
+  Crossroads in Strong Gravity Challenges & Future Directions, Catania, Italy (Sep 2025)
+  
+- **Invited talk**: *The Origin and formation channels of LVK gravitational wave sources: current status*
+  5th Philip Wetton Workshop, Oxford, UK (Sep 2025)
 
 - **Seminar**: *The origin of gravitational wave sources. Isolated binary progenitors of binary black hole mergers*  
   Princeton University, USA (Jun 2025)
