@@ -13,6 +13,9 @@ author_profile: true
 ### 2025
 - **Invited talk**: *Gravitational Waves from Stars Stripped by Supermassive Black Holes*
   ORIGINS Black Hole Days, Garching bei München, Germany (Oct 2025)
+
+- **Talk**: *The Origin and Formation Channels of GW sources - Current Status*
+  Journées ATPEM, Paris, France (Oct 2025)  
   
 - **Invited talk**: *Formation Pathways of GW Sources: Isolated Binary Evolution vs. Dynamical Channels*
   Crossroads in Strong Gravity Challenges & Future Directions, Catania, Italy (Sep 2025)
