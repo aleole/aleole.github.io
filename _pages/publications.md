@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am a co-author of 25 peer-reviewed scientific articles and the leading author of 7 of them.
+I am a co-author of **25** peer-reviewed scientific articles and the leading author of 7 of them.
 Total citations: **1388**. Citations for first-authored articles: **398**. H-index: **~17**
 *(Based on SAO/NASA ADS as of Feb. 1, 2026)*
 
