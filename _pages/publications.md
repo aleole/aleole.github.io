@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-I am a co-author of 24 peer-reviewed scientific articles and the leading author of 7 of them.
-Total citations: **1179**. Citations for first-authored articles: **341**. H-index: **15**
-*(Based on SAO/NASA ADS as of June 14, 2025)*
+I am a co-author of 25 peer-reviewed scientific articles and the leading author of 7 of them.
+Total citations: **1388**. Citations for first-authored articles: **398**. H-index: **~17**
+*(Based on SAO/NASA ADS as of Feb. 1, 2026)*
 
 **ADS Library**: [ADS Public Library](https://ui.adsabs.harvard.edu/public-libraries/U0LMup96RQe2hPXDjU3Mcw)
 **ORCID**: [0000-0002-6105-6492](https://orcid.org/0000-0002-6105-6492)
