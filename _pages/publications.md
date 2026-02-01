@@ -46,23 +46,27 @@ Total citations: **1388**. Citations for first-authored articles: **398**. H-ind
    *Synthetic catalog of black holes in the Milky Way*
    [A&A 638, A94](https://doi.org/10.1051/0004-6361/201936557)
 
-8. Sen K., **Olejak A.**, Banerjee S. (2025)
+8.  Stegmann J., **Olejak A.**, de Mink S.~E. (2025)
+    *Resolving Black Hole Family Issues Among the Massive Ancestors of Very High-Spin Gravitational-Wave Events Like GW231123*
+    [ApJL, 992, L26](https://iopscience.iop.org/article/10.3847/2041-8213/ae0e5f)   
+
+10. Sen K., **Olejak A.**, Banerjee S. (2025)
    *X-ray emission from helium star–black hole binaries as probes of tidally induced spin-up of second-born black holes*
    [A&A 696, A54](https://www.aanda.org/articles/aa/full_html/2025/04/aa53829-25/aa53829-25.html)
 
-9. Banerjee S., **Olejak A.**, Belczynski K. (2023)
+11. Banerjee S., **Olejak A.**, Belczynski K. (2023)
    *Symmetry Breaking in Merging Binary Black Holes from Young Massive Clusters and Isolated Binaries*
    [ApJ 953, 80](https://doi.org/10.3847/1538-4357/acdd59)
 
-10. Romagnolo A., **Olejak A.**, Hypki A., Wiktorowicz G., Belczynski K. (2022)
+12. Romagnolo A., **Olejak A.**, Hypki A., Wiktorowicz G., Belczynski K. (2022)
     *Testing the presence of a dormant black hole inside HR 6819*
     [A&A 667, A55](https://doi.org/10.1051/0004-6361/202141992)
 
-11. Fryer C. L., **Olejak A.**, Belczynski K. (2022)
+13. Fryer C. L., **Olejak A.**, Belczynski K. (2022)
     *The Effect of Supernova Convection On Neutron Star and Black Hole Masses*
     [ApJ 931, 94](https://doi.org/10.3847/1538-4357/ac6ac9)
 
-12. Czerny B., **Olejak A.**, et al.** (2019)
+14. Czerny B., **Olejak A.**, et al.** (2019)
     *Time Delay Measurement of Mg II Line in CTS C30.10 with SALT*
     [ApJ 880, 46](https://doi.org/10.3847/1538-4357/ab2913)
 
@@ -86,8 +90,10 @@ Total citations: **1388**. Citations for first-authored articles: **398**. H-ind
 ---
 
 ## Submitted and preprints
-1. [Stegmann, Olejak & de Mink 2025](https://arxiv.org/abs/2507.15967)
-2. [Zdziarski et al. 2025](https://arxiv.org/abs/2506.00623) submitted to *New Astronomy Review*
-3. [Klencki et al. 2025](https://arxiv.org/abs/2505.08860)
-4. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
-5. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
+
+1. [Olejak et al. 2025](https://arxiv.org/abs/2511.10728)
+2. [Stegmann et al. 2025](https://arxiv.org/abs/2512.15873)
+3. [Zdziarski et al. 2025](https://arxiv.org/abs/2506.00623) submitted to *New Astronomy Review*
+4. [Klencki et al. 2025](https://arxiv.org/abs/2505.08860)
+5. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
+6. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
