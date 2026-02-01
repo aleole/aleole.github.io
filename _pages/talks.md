@@ -12,13 +12,16 @@ author_profile: true
 
 ### 2025
 - **Invited talk**: *Gravitational Waves from Stars Stripped by Supermassive Black Holes*
-  ORIGINS Black Hole Days, Garching bei München (Oct 2025)
+  ORIGINS Black Hole Days, Garching bei München, Germany (Oct 2025)
   
 - **Invited talk**: *Formation Pathways of GW Sources: Isolated Binary Evolution vs. Dynamical Channels*
   Crossroads in Strong Gravity Challenges & Future Directions, Catania, Italy (Sep 2025)
   
 - **Invited talk**: *The Origin and formation channels of LVK gravitational wave sources: current status*
   5th Philip Wetton Workshop, Oxford, UK (Sep 2025)
+
+- **Talk**: *Supermassive black hole with a stripped subgiant companion as a gravitational wave source detectable by LISA *
+  X-ray Quasi-Periodic Eruptions & Repeating Nuclear Transients, Madrid, Spain (Jun 2025)
 
 - **Seminar**: *The origin of gravitational wave sources. Isolated binary progenitors of binary black hole mergers*  
   Princeton University, USA (Jun 2025)
