@@ -93,7 +93,8 @@ Total citations: **1388**. Citations for first-authored articles: **398**. H-ind
 
 1. [Olejak et al. 2025](https://arxiv.org/abs/2511.10728)
 2. [Stegmann et al. 2025](https://arxiv.org/abs/2512.15873)
-3. [Zdziarski et al. 2025](https://arxiv.org/abs/2506.00623) submitted to *New Astronomy Review*
-4. [Klencki et al. 2025](https://arxiv.org/abs/2505.08860)
-5. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
-6. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
+3. [Wiktorowicz et al. 2025](https://arxiv.org/abs/2509.11726)
+4. [Zdziarski et al. 2025](https://arxiv.org/abs/2506.00623) accepted to *New Astronomy Review*
+5. [Klencki et al. 2025](https://arxiv.org/abs/2505.08860)
+6. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
+7. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
