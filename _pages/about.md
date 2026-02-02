@@ -18,9 +18,9 @@ See the list of my publications at:
 **ORCID**: [0000-0002-6105-6492](https://orcid.org/0000-0002-6105-6492)
 
  <div style="text-align: center;">
-  <img src="./../images/CE_vs_SMT.png" width="400"/>
+  <img src="./../images/diagram.jpeg" width="400"/>
 </div>
-Cartoon illustrating formation of binary black hole merger via stable mass transfer channel.
+Cartoon illustrating the formation of a binary black hole merger via a stable mass transfer channel. Illustrations created with the assistance of ChatGPT (OpenAI).
 
  <div style="text-align: center;">
   <img src="./../images/SMBH_hills.png" width="600"/>
