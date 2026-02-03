@@ -13,7 +13,7 @@ A full PDF version of my CV can be downloaded here: **[Download CV](/files/CV_Al
 
 Work experience
 ======
-- <span style="color: red;">Oct. 2026–Sept. 2031 (upcoming)</span> **Tenure-Track**, Nicolaus Copernicus Astronomical Center, Warsaw  
+{%- <span style="color: red;">Oct. 2026–Sept. 2031 (upcoming)</span> **Tenure-Track**, Nicolaus Copernicus Astronomical Center, Warsaw  %}
 - <span style="color: green;">Oct. 2023–Sept. 2026 (currently)</span> **Postdoctoral Fellow**, Max Planck Institute for Astrophysics, Stellar Department, Garching bei München
 - Oct. 2019– Sept. 2023 **Ph.D. Student**, Nicolaus Copernicus Astronomical Center, Warsaw   
 - Oct. 2018– Sept. 2019 **Scholarship Researcher**, Center for Theoretical Physics, Warsaw   
