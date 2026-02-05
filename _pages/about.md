@@ -17,6 +17,19 @@ See the list of my publications at:
 **ADS Library**: [ADS Public Library](https://ui.adsabs.harvard.edu/public-libraries/U0LMup96RQe2hPXDjU3Mcw) or
 **ORCID**: [0000-0002-6105-6492](https://orcid.org/0000-0002-6105-6492)
 
+
+## Recent Highlights
+
+**Zdziarski et al. (2026)**  
+*Spins of black holes in X-ray binaries and the tension with the gravitational wave measurements*  
+**New Astronomy Reviews**, Volume 102, June 2026, 101746
+
+Our recent review discusses the current understanding of black hole spin measurements in X-ray binaries and examines the emerging tension between these measurements and spin estimates inferred from gravitational-wave observations. We summarize observational techniques, systematic uncertainties, and the implications for compact-object formation and binary evolution.
+
+🔗 [Read the paper](https://www.sciencedirect.com/science/article/pii/S1387647325000259?dgcid=coauthor)
+
+
+
  <div style="text-align: center;">
   <img src="./../images/diagram.jpeg" width="400"/>
 </div>
