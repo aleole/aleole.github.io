@@ -25,6 +25,10 @@ Our recent review discusses the current understanding of black hole spin measure
 **Zdziarski et al. (2026)** *Spins of black holes in X-ray binaries and the tension with the gravitational wave measurements*  **New Astronomy Reviews**, Volume 102, June 2026, 101746 🔗 [Read the paper](https://www.sciencedirect.com/science/article/pii/S1387647325000259?dgcid=coauthor)
 
 
+![Spins of black holes](BHspins.png)  
+*Figure credit: AI-generated illustration (OpenAI DALL·E), adapted for this work.*
+
+
  <div style="text-align: center;">
   <img src="./../images/diagram.jpeg" width="400"/>
 </div>
