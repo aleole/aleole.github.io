@@ -29,6 +29,8 @@ Our recent review discusses the current understanding of black hole spin measure
 *Figure credit: AI-generated illustration (OpenAI DALL·E), adapted for this work.*
 
 
+## My Research
+
  <div style="text-align: center;">
   <img src="./../images/diagram.jpeg" width="400"/>
 </div>
