@@ -28,7 +28,7 @@ Our recent review: **Zdziarski et al. (2026)** *Spins of black holes in X-ray bi
  <div style="text-align: center;">
   <img src="./../images/BHspins.png" width="400"/>
 </div>
-*Figure credit: AI-generated illustration (OpenAI DALL·E), adapted for this work.*
+*Figure credit: AI-generated illustration of accreting black hole and a merging binary black hole system (OpenAI DALL·E).*
 
 
 ## Astrophysics of gravitational wave sources
