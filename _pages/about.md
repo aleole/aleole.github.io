@@ -31,7 +31,7 @@ Our recent review: **Zdziarski et al. (2026)** *Spins of black holes in X-ray bi
 *Figure credit: AI-generated illustration (OpenAI DALL·E), adapted for this work.*
 
 
-## My Research
+## Astrophysics of gravitational wave sources
 
  <div style="text-align: center;">
   <img src="./../images/diagram.jpeg" width="400"/>
