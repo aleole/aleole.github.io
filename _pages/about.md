@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+# About
 
 My academic path has been closely aligned with the scientific objectives of the LISA and LIGO-Virgo-KAGRA collaborations. My expertise lies in stellar evolution, compact-object astrophysics, and gravitational-wave astronomy, with a particular focus on binary interactions that lead to the formation of GW sources. My research spans the full evolutionary pathway from stellar birth to compact-object mergers, combining detailed stellar and binary evolution codes (MESA, StarTrack) with population synthesis to connect theoretical predictions with GW detections (LIGO–Virgo–KAGRA, LISA) and electromagnetic observations (e.g., Gaia black holes, X-ray binaries). During my postdoctoral fellowship at MPA, I began investigating systems where stars transfer mass onto supermassive black holes.
  
@@ -18,9 +19,9 @@ See the list of my publications at:
 **ORCID**: [0000-0002-6105-6492](https://orcid.org/0000-0002-6105-6492)
 
 
-## Recent Highlights
+# Recent Highlights
 
-# New formation scenario of Gaia black holes 
+## New formation scenario of Gaia black holes 
 
 The Gaia mission has revealed black hole binary systems with orbital separations and mass ratios that are difficult to reconcile with conventional binary evolution models. In our recently sumbitted work: Olejak et al. 2025b, we propose a new formation pathway for these Gaia-type systems. Specifically, we suggest that a phase of mass loss carrying away low specific angular momentum occurred before or during Roche-lobe overflow. Mass loss predominantly from the vicinity of the donor can can stabilize the mass transfer and prevent dynamically unstable evolution, producing systems consistent with Gaia observations.
 
@@ -32,7 +33,7 @@ The Gaia mission has revealed black hole binary systems with orbital separations
 *Artistic vision of a wide, non-interacting binary system with a black hole and its distant, low-mass stellar companion.*
 
 
-# Black Hole Spins
+## Black Hole Spins
 
 Our review: **Zdziarski et al. (2026)** *Spins of black holes in X-ray binaries and the tension with the gravitational wave measurements* has been published in **New Astronomy Reviews** (Volume 102, June 2026, 101746). It discusses the current understanding of black hole spin measurements in X-ray binaries and examines the emerging tension between these measurements and spin estimates inferred from gravitational-wave observations. We summarize observational techniques, systematic uncertainties, and the implications for compact-object formation and binary evolution. 
 
