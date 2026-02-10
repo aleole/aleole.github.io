@@ -20,7 +20,7 @@ See the list of my publications at:
 # Recent Highlights
 ## New formation scenario of Gaia black holes 
 
-The Gaia mission has revealed black hole binary systems with orbital separations and mass ratios that are difficult to reconcile with conventional binary evolution models. In our recently submitted work **Olejak et al. 2025b** *Widening of Binaries via Non-conservative Mass Transfer as a Formation Channel for Gaia Black Hole System*, we propose a new formation pathway for these Gaia-type systems. Specifically, we suggest that a phase of mass loss carrying away low specific angular momentum occurred before or during Roche-lobe overflow. Mass loss predominantly from the vicinity of the donor can stabilize the mass transfer, reproducing systems with properties consistent with Gaia observations.
+The Gaia mission has revealed black hole binary systems with orbital separations and mass ratios that are difficult to reconcile with conventional binary evolution models. In our recently submitted work **Olejak et al. 2025b**: *Widening of Binaries via Non-conservative Mass Transfer as a Formation Channel for Gaia Black Hole System*, we propose a new formation pathway for these Gaia-type systems. Specifically, we suggest that a phase of mass loss carrying away low specific angular momentum occurred before or during Roche-lobe overflow. Mass loss predominantly from the vicinity of the donor can stabilize the mass transfer, reproducing systems with properties consistent with Gaia observations.
 
 🔗 [Read the paper](https://arxiv.org/abs/2511.10728)
 
