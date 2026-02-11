@@ -17,7 +17,7 @@ I am a postdoctoral fellow at the Max Planck Institute for Astrophysics. My rese
 - Origin of gravitational wave signals 
 - Stars in the galactic centers as multimessenger sources
 
-**Contact me: aolejak at mpa-garching.mpg.de.**
+**Contact me:** aolejak at mpa-garching.mpg.de
 
 <p align="center">
   <img src="./../images/Max-Planck-Gesellschaft.png" width="300" />
