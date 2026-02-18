@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am a co-author of **27** peer-reviewed scientific articles and the leading author of 7 of them.
+I am a co-author of **28** peer-reviewed scientific articles and the leading author of **7** of them.
 Total citations: **1388**. Citations for first-authored articles: **398**. H-index: **~17**
 *(Based on SAO/NASA ADS as of Feb. 1, 2026)*
 
@@ -75,19 +75,20 @@ Total citations: **1388**. Citations for first-authored articles: **398**. H-ind
 ## Other Co-authored Publications
 
 1. [Zdziarski et al. 2025](https://doi.org/10.1016/j.newar.2025.101746) — New Astronomy Reviews, 102,101746
-2. [Wiktorowicz et al. 2025](https://doi.org/10.1051/0004-6361/202557456) — A&A, 706, A232
-3. [Vigna-Gomez et al. 2025](https://doi.org/10.1051/0004-6361/202554680) — A&A 699, A272
-4. [Wang et al. 2024](https://doi.org/10.3847/2041-8213/ad86b7) — ApJL 975, L20
-5. [Fumagalli et al. 2024](https://doi.org/10.1103/PhysRevD.110.063012) — Phys. Rev. D 110, 063012
-6. [Prince et al. 2023](https://doi.org/10.1051/0004-6361/202346738) — A&A 678, A189
-7. [Leveque et al. 2023](https://doi.org/10.1093/mnras/stad240) — MNRAS 520, 2593
-8. [Prince et al. 2022](https://doi.org/10.1051/0004-6361/202243194) — A&A 667, A42
-9. [Wang et al. 2022](https://doi.org/10.1051/0004-6361/202243684) — A&A 665, A111
-10. [Belczynski et al. 2022](https://doi.org/10.3847/1538-4357/ac8167) — ApJ 935, 126
-11. [Belczynski et al. 2022](https://doi.org/10.3847/1538-4357/ac375a) — ApJ 925, 69
-12. [Zajacek et al. 2021](https://doi.org/10.3847/1538-4357/abe9b2) — ApJ 912, 10
-13. [Zajacek et al. 2020](https://doi.org/10.3847/1538-4357/ab94ae) — ApJ 896, 146
-14. [Belczynski et al. 2020](https://doi.org/10.1051/0004-6361/201936528) — A&A 636, A104
+2. [Klencki et al. 2025](https://doi.org/10.1051/0004-6361/202555500 ) — A&A, 706, A296 
+3. [Wiktorowicz et al. 2025](https://doi.org/10.1051/0004-6361/202557456) — A&A, 706, A232
+4. [Vigna-Gomez et al. 2025](https://doi.org/10.1051/0004-6361/202554680) — A&A 699, A272
+5. [Wang et al. 2024](https://doi.org/10.3847/2041-8213/ad86b7) — ApJL 975, L20
+6. [Fumagalli et al. 2024](https://doi.org/10.1103/PhysRevD.110.063012) — Phys. Rev. D 110, 063012
+7. [Prince et al. 2023](https://doi.org/10.1051/0004-6361/202346738) — A&A 678, A189
+8. [Leveque et al. 2023](https://doi.org/10.1093/mnras/stad240) — MNRAS 520, 2593
+9. [Prince et al. 2022](https://doi.org/10.1051/0004-6361/202243194) — A&A 667, A42
+10. [Wang et al. 2022](https://doi.org/10.1051/0004-6361/202243684) — A&A 665, A111
+11. [Belczynski et al. 2022](https://doi.org/10.3847/1538-4357/ac8167) — ApJ 935, 126
+12. [Belczynski et al. 2022](https://doi.org/10.3847/1538-4357/ac375a) — ApJ 925, 69
+13. [Zajacek et al. 2021](https://doi.org/10.3847/1538-4357/abe9b2) — ApJ 912, 10
+14. [Zajacek et al. 2020](https://doi.org/10.3847/1538-4357/ab94ae) — ApJ 896, 146
+15. [Belczynski et al. 2020](https://doi.org/10.1051/0004-6361/201936528) — A&A 636, A104
 
 ---
 
@@ -95,6 +96,5 @@ Total citations: **1388**. Citations for first-authored articles: **398**. H-ind
 
 1. [Olejak et al. 2025](https://arxiv.org/abs/2511.10728)
 2. [Stegmann et al. 2025](https://arxiv.org/abs/2512.15873)
-3. [Klencki et al. 2025](https://arxiv.org/abs/2505.08860)
-4. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
-5. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
+3. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
+4. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
