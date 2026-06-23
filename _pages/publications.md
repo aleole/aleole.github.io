@@ -18,11 +18,11 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
 
 ## First- and Second-authored Papers
 
-1.**Olejak A.**, Klencki J., Vigna-Gomez A., de Mink S.~E., et al., (2025)
+1. **Olejak A.**, Klencki J., Vigna-Gomez A., de Mink S.~E., et al., (2025)
    *Non-conservative Mass Transfer as a Formation Channel for Gaia Black Hole Systems*
    [Accepted in ApJ](https://arxiv.org/abs/2511.10728)
    
-2.**Olejak A.**, Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.(2025)
+2. **Olejak A.**, Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.(2025)
    *Supermassive black holes stripping a subgiant star down to its helium core: a new type of multi-messenger source for LISA*
    [ApJL 987, L11](https://iopscience.iop.org/article/10.3847/2041-8213/ade432)
 
@@ -50,7 +50,7 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
    *Synthetic catalog of black holes in the Milky Way*
    [A&A 638, A94](https://doi.org/10.1051/0004-6361/201936557)
 
-10.  Stegmann J., **Olejak A.**, de Mink S.~E. (2025)
+10. Stegmann J., **Olejak A.**, de Mink S.~E. (2025)
     *Resolving Black Hole Family Issues Among the Massive Ancestors of Very High-Spin Gravitational-Wave Events Like GW231123*
     [ApJL, 992, L26](https://iopscience.iop.org/article/10.3847/2041-8213/ae0e5f)   
 
@@ -78,10 +78,10 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
 
 ## Other Co-authored Publications
 
-1. [Stegmann et al. 2025](https://arxiv.org/abs/2512.15873)
-2. [Zdziarski et al. 2025](https://doi.org/10.1016/j.newar.2025.101746) — New Astronomy Reviews, 102,101746
-3. [Klencki et al. 2025](https://doi.org/10.1051/0004-6361/202555500 ) — A&A, 706, A296 
-4. [Wiktorowicz et al. 2025](https://doi.org/10.1051/0004-6361/202557456) — A&A, 706, A232
+1. [Stegmann et al. 2026](https://doi:10.3847/2041-8213/ae52ec) — ApJ, 1000, L59
+2. [Zdziarski et al. 2026](https://doi.org/10.1016/j.newar.2025.101746) — New Astronomy Reviews, 102,101746
+3. [Klencki et al. 2026](https://doi.org/10.1051/0004-6361/202555500 ) — A&A, 706, A296 
+4. [Wiktorowicz et al. 2026](https://doi.org/10.1051/0004-6361/202557456) — A&A, 706, A232
 5. [Vigna-Gomez et al. 2025](https://doi.org/10.1051/0004-6361/202554680) — A&A 699, A272
 6. [Wang et al. 2024](https://doi.org/10.3847/2041-8213/ad86b7) — ApJL 975, L20
 7. [Fumagalli et al. 2024](https://doi.org/10.1103/PhysRevD.110.063012) — Phys. Rev. D 110, 063012
@@ -99,6 +99,5 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
 
 ## Submitted and preprints
 
-1.  
-2. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
-3. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
+1. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
+2. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
