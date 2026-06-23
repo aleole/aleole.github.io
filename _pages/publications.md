@@ -78,7 +78,7 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
 
 ## Other Co-authored Publications
 
-1. [Stegmann et al. 2026](https://doi:10.3847/2041-8213/ae52ec) — ApJ, 1000, L59
+1. [Stegmann et al. 2026](https://iopscience.iop.org/article/10.3847/2041-8213/ae52ec) — ApJ, 1000, L59
 2. [Zdziarski et al. 2026](https://doi.org/10.1016/j.newar.2025.101746) — New Astronomy Reviews, 102,101746
 3. [Klencki et al. 2026](https://doi.org/10.1051/0004-6361/202555500 ) — A&A, 706, A296 
 4. [Wiktorowicz et al. 2026](https://doi.org/10.1051/0004-6361/202557456) — A&A, 706, A232
