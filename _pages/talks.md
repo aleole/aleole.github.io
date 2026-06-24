@@ -10,6 +10,15 @@ author_profile: true
 
 ## Selected Talks & Seminars
 
+### 2026
+- **Invited talk (upcoming)**: *Black-Hole Spins: Measurement Techniques and Results*; COSPAR 2026, Florence, Italy (Aug 2026)
+
+- **Seminar**: *The Origin of Binary Black Hole Mergers Revealed by LIGO–Virgo–KAGRA: Are We Beginning to See Multiple Populations?*; Max Planck Institute for Gravitational Physics, Potsdam, Germany (Jun 2026)
+
+- **Invited talk**: *The Puzzling Formation of Black Hole Systems Revealed by Gaia*; Multiple Systems Across Scales Workshop, Heidelberg, Germany (Apr 2026)
+
+- **Review talk**: *Spins of Stellar Black Holes: Why Do We Expect Them to Be Low?*; ISSI Workshop What Are the Spins of Stellar-Mass Black Holes?, Bern, Switzerland (Apr 2026)
+
 ### 2025
 - **Invited talk**: *Gravitational Waves from Stars Stripped by Supermassive Black Holes*;
   ORIGINS Black Hole Days, Garching bei München, Germany (Oct 2025)
