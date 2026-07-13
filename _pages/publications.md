@@ -20,7 +20,7 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
 
 1. **Olejak A.**, Klencki J., Vigna-Gomez A., de Mink S.~E., et al., (2025)
    *Non-conservative Mass Transfer as a Formation Channel for Gaia Black Hole Systems*
-   [ApJ 1006 13]([https://arxiv.org/abs/2511.10728](https://iopscience.iop.org/article/10.3847/1538-4357/ae8097))
+   [ApJ 1006 13](https://iopscience.iop.org/article/10.3847/1538-4357/ae8097)
    
 2. **Olejak A.**, Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.(2025)
    *Supermassive black holes stripping a subgiant star down to its helium core: a new type of multi-messenger source for LISA*
