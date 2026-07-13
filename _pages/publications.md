@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am a co-author of **30** peer-reviewed scientific articles and the leading author of **8** of them.
+I am a co-author of **31** peer-reviewed scientific articles and the leading author of **8** of them.
 Total citations: **1491**. Citations for first-authored articles: **436**. H-index: **~18**
 *(Based on SAO/NASA ADS as of June. 23, 2026)*
 
@@ -20,7 +20,7 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
 
 1. **Olejak A.**, Klencki J., Vigna-Gomez A., de Mink S.~E., et al., (2025)
    *Non-conservative Mass Transfer as a Formation Channel for Gaia Black Hole Systems*
-   [Accepted in ApJ](https://arxiv.org/abs/2511.10728)
+   [ApJ 1006 13]([https://arxiv.org/abs/2511.10728](https://iopscience.iop.org/article/10.3847/1538-4357/ae8097))
    
 2. **Olejak A.**, Stegmann J., de Mink S. E., Valli R., Sari R., Justham S.(2025)
    *Supermassive black holes stripping a subgiant star down to its helium core: a new type of multi-messenger source for LISA*
@@ -50,27 +50,31 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
    *Synthetic catalog of black holes in the Milky Way*
    [A&A 638, A94](https://doi.org/10.1051/0004-6361/201936557)
 
-10. Stegmann J., **Olejak A.**, de Mink S.~E. (2025)
+10. Banerjee, S. & **Olejak A.** (2026)
+    *On the effective spin-mass ratio relation of binary black hole mergers that evolved in isolation*
+    [OJAp, V9](https://astro.theoj.org/article/164325-on-the-effective-spin-mass-ratio-relation-of-binary-black-hole-mergers-that-evolved-in-isolation)
+
+11. Stegmann J., **Olejak A.**, de Mink S.~E. (2025)
     *Resolving Black Hole Family Issues Among the Massive Ancestors of Very High-Spin Gravitational-Wave Events Like GW231123*
     [ApJL, 992, L26](https://iopscience.iop.org/article/10.3847/2041-8213/ae0e5f)   
 
-11. Sen K., **Olejak A.**, Banerjee S. (2025)
+12. Sen K., **Olejak A.**, Banerjee S. (2025)
    *X-ray emission from helium star–black hole binaries as probes of tidally induced spin-up of second-born black holes*
    [A&A 696, A54](https://www.aanda.org/articles/aa/full_html/2025/04/aa53829-25/aa53829-25.html)
 
-12. Banerjee S., **Olejak A.**, Belczynski K. (2023)
+13. Banerjee S., **Olejak A.**, Belczynski K. (2023)
    *Symmetry Breaking in Merging Binary Black Holes from Young Massive Clusters and Isolated Binaries*
    [ApJ 953, 80](https://doi.org/10.3847/1538-4357/acdd59)
 
-13. Romagnolo A., **Olejak A.**, Hypki A., Wiktorowicz G., Belczynski K. (2022)
+14. Romagnolo A., **Olejak A.**, Hypki A., Wiktorowicz G., Belczynski K. (2022)
     *Testing the presence of a dormant black hole inside HR 6819*
     [A&A 667, A55](https://doi.org/10.1051/0004-6361/202141992)
 
-14. Fryer C. L., **Olejak A.**, Belczynski K. (2022)
+15. Fryer C. L., **Olejak A.**, Belczynski K. (2022)
     *The Effect of Supernova Convection On Neutron Star and Black Hole Masses*
     [ApJ 931, 94](https://doi.org/10.3847/1538-4357/ac6ac9)
 
-15. Czerny B., **Olejak A.**, et al.** (2019)
+16. Czerny B., **Olejak A.**, et al.** (2019)
     *Time Delay Measurement of Mg II Line in CTS C30.10 with SALT*
     [ApJ 880, 46](https://doi.org/10.3847/1538-4357/ab2913)
 
@@ -99,5 +103,4 @@ Total citations: **1491**. Citations for first-authored articles: **436**. H-ind
 
 ## Submitted and preprints
 
-1. [Banerjee & Olejak 2024](https://doi.org/10.48550/arXiv.2411.15112)
-2. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
+1. [Belczynski et al. 2018](https://doi.org/10.48550/arXiv.1812.10065)
