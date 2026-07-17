@@ -12,7 +12,7 @@ author_profile: true
 
 ### 2026
 - **Invited talk (upcoming)**: *Black-Hole Spins: Measurement Techniques and Results*; COSPAR 2026, Florence, Italy (Aug 2026)
-- **Talk/discussion**: *Young stellar populations and BH progenitors*; co-led with T. Shenar; Black Holes Across Mass Scales: Formation, Growth, and the Multi-Messenger Frontier, Aspen Center for Physics, USA (July 2026)
+- **Talk/Discussion**: *Young stellar populations and BH progenitors*; co-led with T. Shenar; Black Holes Across Mass Scales: Formation, Growth, and the Multi-Messenger Frontier, Aspen Center for Physics, USA (July 2026)
 - **Seminar**: *The Origin of Binary Black Hole Mergers Revealed by LIGO–Virgo–KAGRA: Are We Beginning to See Multiple Populations?*; Max Planck Institute for Gravitational Physics, Potsdam, Germany (Jun 2026)
 
 - **Invited talk**: *The Puzzling Formation of Black Hole Systems Revealed by Gaia*; Multiple Systems Across Scales Workshop, Heidelberg, Germany (Apr 2026)
