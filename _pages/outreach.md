@@ -17,7 +17,7 @@ Artist's impression of a supermassive black hole tearing apart a Sun-like star [
 
 
 ## Interviews and popular science highlights of my research
--**August 2026**, *Monthly Highlights of MPI for Astrophysics* 
+- **August 2026**, *Monthly Highlights of MPI for Astrophysics* 
 ["Solving the Mystery of Gaia’s Quiet Black Holes"](https://www.mpa-garching.mpg.de/1151939/hl202608)
 - **August 2025**, *AAS Nova highlights for AAS's peer-reviewed journals*  
   ["Supermassive Black Holes and Stripped Subgiants: Significant Signals for Future Gravitational Wave Detectors"](https://aasnova.org/2025/08/08/supermassive-black-holes-and-stripped-subgiants-significant-signals-for-future-gravitational-wave-detectors/)
