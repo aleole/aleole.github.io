@@ -9,7 +9,7 @@ author_profile: true
 
 ## Open positions
 
-### Postdoctoral Position in Multimessenger Astrophysics and Stellar Evolution Near Massive Black Holes
+### <u> Postdoctoral Position in Multimessenger Astrophysics and Stellar Evolution Near Massive Black Holes </u>
 Application deadline: November 15, 2026.
 
 I am looking for a postdoctoral researcher to join us in Warsaw and work on **stellar IMRI/EMRI-type systems**.
