@@ -17,6 +17,9 @@ Artist's impression of a supermassive black hole tearing apart a Sun-like star [
 
 
 ## Interviews and popular science highlights of my research
+- **September 2026**, *Phys.org & Universe Today*  
+  [Phys.org](https://phys.org/news/2026-09-quiet-black-holes-stellar-companion.html) and
+  Articles by [Universe Today](https://www.universetoday.com/articles/quiet-black-holes-with-a-stellar-companion-raise-questions-about-how-they-form) summarizing the paper *[Olejak et al 2026 ApJ 1006 13](https://iopscience.iop.org/article/10.3847/1538-4357/ae8097)*
 - **August 2026**, *Monthly Highlights of MPI for Astrophysics* 
 ["Solving the Mystery of Gaia’s Quiet Black Holes"](https://www.mpa-garching.mpg.de/1151939/hl202608)
 - **August 2025**, *AAS Nova highlights for AAS's peer-reviewed journals*  
