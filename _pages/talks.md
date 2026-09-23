@@ -11,6 +11,7 @@ author_profile: true
 ## Selected Talks & Seminars
 
 ### 2026
+- **ESO Informal Discussion**: *The Golden Age of Stellar-Mass Black Holes: Do Observations Match Our Predictions?*; informal discussion at ESO, Garching, Germany (Sept 2026)
 - **Talk**: *From Massive Binary Stars to Black Hole Systems: What Gravitational Waves and Gaia Reveal About Massive Star Evolution?*; during 2026 MIAPbP Program "BRAHMS", Garching, Germany (Aug 2026)
 - **Invited talk**: *Spins of (Stellar-mass) Black Holes. Measurement Techniques & Results*; COSPAR 2026, Florence, Italy (Aug 2026)
 - **Talk/Discussion**: *Young stellar populations and BH progenitors*; co-led with T. Shenar; Black Holes Across Mass Scales: Formation, Growth, and the Multi-Messenger Frontier, Aspen Center for Physics, USA (July 2026)
