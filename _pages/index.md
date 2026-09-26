@@ -10,7 +10,7 @@ author_profile: true
 
 Welcome to my personal website!
 
-I am a **postdoctoral fellow at the Max Planck Institute for Astrophysics**, soon moving to a **tenure-track position at the Nicolaus Copernicus Astronomical Center in Warsaw**.
+I am an Assistant Professor (Tenure-Track) at the Nicolaus Copernicus Astronomical Center in Warsaw. My main scientific interests are:
 
 - Evolution of massive stars in isolated binary systems
 - Evolutionary scenarios leading to the formation of binaries hosting compact objects
