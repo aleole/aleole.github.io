@@ -23,6 +23,6 @@ I am an Assistant Professor (Tenure-Track) at the Nicolaus Copernicus Astronomic
 **ORCID**: [0000-0002-6105-6492](https://orcid.org/0000-0002-6105-6492)
 
 <p align="center">
-  <img src="./../images/Max-Planck-Gesellschaft.png" width="300" />
   <img src="./../images/NCAC.png" width="400" />
+  <img src="./../images/Max-Planck-Gesellschaft.png" width="300" />
 </p>
