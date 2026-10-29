@@ -11,7 +11,7 @@ author_profile: true
 ## Selected Talks & Seminars
 
 ### 2026
-**Invited talk**(upcoming): *What Do Gravitational-Wave Mergers Tell Us About Black Hole Formation and the Putative Mass Gaps?*; webinar of IAU Commission D1 on Gravitational Wave Astrophysics, Online (Oct 2026)
+- **Invited talk**(upcoming): *What Do Gravitational-Wave Mergers Tell Us About Black Hole Formation and the Putative Mass Gaps?*; webinar of IAU Commission D1 on Gravitational Wave Astrophysics, Online (Oct 2026)
 - **Talk**: *Misaligned Spins in Gravitational-Wave Mergers Challenge Our Understanding of Stellar Black Hole Formation?*; 8th Black Hole Nepal meeting, Kathmandu, Nepal (Oct 2026)
 - **ESO Informal Discussion**: *The Golden Age of Stellar-Mass Black Holes: Do Observations Match Our Predictions?*; informal discussion at ESO, Garching, Germany (Sept 2026)
 - **Talk**: *From Massive Binary Stars to Black Hole Systems: What Gravitational Waves and Gaia Reveal About Massive Star Evolution?*; during 2026 MIAPbP Program "BRAHMS", Garching, Germany (Aug 2026)
